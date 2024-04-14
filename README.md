@@ -1,2 +1,2 @@
 # Ethical Hacking Resources
- Compilation of courses
+ Compilation of courses.
