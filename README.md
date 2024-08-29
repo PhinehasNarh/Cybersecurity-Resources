@@ -25,4 +25,4 @@
 20. The Life Hacker Documentary (https://lnkd.in/djAqBhbw)
 21. Hacker The Realm and Electron - Hacker Group (https://lnkd.in/dx_uyTuT)
 
-Credit: Ph1n3y.
+Credit: Ph1n3y
