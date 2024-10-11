@@ -1,4 +1,4 @@
-# Ethical Hacking Resources
+# Cybersecurity Resources
  Books and Documentary
 
  # Best Cyber Security and Hacking Documentary 
